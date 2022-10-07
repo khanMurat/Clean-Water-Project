@@ -2,15 +2,15 @@
 
 A new Flutter project.
 
-## Getting Started
+This project was carried out in order to draw attention to clean water access, which is one of the sustainable development plans published by the United Nations, and to support water well projects aimed at solving this problem.
 
-This project is a starting point for a Flutter application.
+In this project, you can see ongoing water well projects, and not only you can read stories about people who live in villages where they can't access clean water properly, but also donate to these projects.
 
-A few resources to get you started if this is your first Flutter project:
+I used firebase authentication for the user login and register process in this project.Moreover I fetched data about water well projects from firebase firestore database.
+To State Management,Provider was used.
+To Cache process,Shared Preferences was used.
+MVVM Architecture
+Singelton Design Pattern etc.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Design belongs to me and to see more information check this website -- https://lifewater.org/ 
